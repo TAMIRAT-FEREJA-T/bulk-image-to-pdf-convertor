@@ -14,7 +14,7 @@ Prerequisites
 Python: Version 3.6 or higher.
 Libraries: Install dependencies with:
 
-pip install pillow tqdm
+  pip install pillow tqdm
 🚀 How to Use
 Clone the Repository:
 
