@@ -1,5 +1,5 @@
 📄 Scanned Document to PDF Converter
-Effortlessly convert scanned document images into PDFs! This Python script automates the process, efficiently handling thousands of images (e.g., 8000+) with powerful features like multithreading, batch processing, and image compression.
+Effortlessly convert scanned document images into PDFs! This Python script automates the process, efficiently handling thousands of images  with powerful features like multithreading, batch processing, and image compression.
 
 🌟 Features
 🚀 Batch Processing: Minimize memory usage by processing images in batches.
